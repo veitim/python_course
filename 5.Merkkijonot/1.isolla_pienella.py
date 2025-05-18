@@ -1,0 +1,5 @@
+teksti = input("Anna teksti: ")
+print("")
+print(teksti.upper())
+print(teksti.lower())
+print(f'Merkkijonossa "{teksti}" on {len(teksti)} merkkiä')

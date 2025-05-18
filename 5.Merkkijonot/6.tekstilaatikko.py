@@ -1,0 +1,5 @@
+txt = input("Anna teksti: ")
+syote = (f"| {txt} |")
+print("-"*len(syote))
+print(syote)
+print("-"*len(syote))
